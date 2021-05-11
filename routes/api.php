@@ -17,11 +17,13 @@ use Illuminate\Support\Facades\Route;
 
 /* Get Request for the API to show all current prospects / leads on the CRM */
 
-Route::get('/prospects', [Prospects\ProspectsController::class, 'index']);
+// Route::get('/prospects', [Prospects\ProspectsController::class, 'index']);
 
 /* Post request to create a prospect on the database via API */
 
-Route::post('/prospects', [Prospects\ProspectsController::class, 'store']);
+// Route::post('/prospects', [Prospects\ProspectsController::class, 'store']);
+
+Route::resource('prospects', Prospects\ProspectsController::class);
 
 Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();

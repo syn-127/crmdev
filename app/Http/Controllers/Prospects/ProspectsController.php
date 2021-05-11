@@ -24,4 +24,10 @@ class ProspectsController extends Controller
         //
         return Prospect::create($request->all());
     }
+
+    // This will allow you to search for id's via the API
+    public function show($id)
+    {
+        return Prospect::find($id);
+    }
 }
