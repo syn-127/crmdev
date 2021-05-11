@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:crm-local" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="edaed05e-9264-4699-ac08-ad2b4004e04f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Prospects/ProspectsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Prospects/ProspectsController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Prospect.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Prospect.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web/prospects.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web/prospects.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,12 +211,47 @@
       <workItem from="1618142645782" duration="39000" />
       <workItem from="1619969369420" duration="2881000" />
       <workItem from="1620756703237" duration="4643000" />
-      <workItem from="1620773378712" duration="58000" />
+      <workItem from="1620773378712" duration="1604000" />
     </task>
+    <task id="LOCAL-00001" summary="Started coding API , added to api.php and added changes to Prospect.php , prospects.php and ProspectsController.php">
+      <created>1620773549122</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620773549122</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="crm-local" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Started coding API , added to api.php and added changes to Prospect.php , prospects.php and ProspectsController.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="Started coding API , added to api.php and added changes to Prospect.php , prospects.php and ProspectsController.php" />
   </component>
   <component name="WindowStateProjectService">
     <state x="733" y="382" key="#Notifications" timestamp="1620758582790">
@@ -226,5 +282,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1620758587298" />
+    <state x="569" y="272" key="Vcs.Push.Dialog.v2" timestamp="1620773721163">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="569" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1620773721163" />
   </component>
 </project>
