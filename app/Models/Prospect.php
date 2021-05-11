@@ -15,4 +15,10 @@ class Prospect extends Model
     {
         return date('F d, Y', strtotime($this->created_at));
     }
+
+    protected $fillable = [
+        'name',
+        'email',
+        'profile_image'
+    ];
 }
