@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="edaed05e-9264-4699-ac08-ad2b4004e04f" name="Default Changelist" comment="" />
+    <list default="true" id="edaed05e-9264-4699-ac08-ad2b4004e04f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Prospects/ProspectsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Prospects/ProspectsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Prospect.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Prospect.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web/prospects.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web/prospects.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +23,9 @@
         <option value="composer.json" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -152,6 +161,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -179,10 +189,42 @@
       <workItem from="1618125935325" duration="1291000" />
       <workItem from="1618142645782" duration="39000" />
       <workItem from="1619969369420" duration="2881000" />
+      <workItem from="1620756703237" duration="4643000" />
+      <workItem from="1620773378712" duration="58000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="733" y="382" key="#Notifications" timestamp="1620758582790">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="733" y="382" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1620758582790" />
+    <state x="1024" y="251" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620758655736">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1024" y="251" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1620758655736" />
+    <state width="1293" height="67" key="GridCell.Tab.0.bottom" timestamp="1620760627251">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="67" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1620760627251" />
+    <state width="1293" height="67" key="GridCell.Tab.0.center" timestamp="1620760627251">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="67" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1620760627251" />
+    <state width="1293" height="67" key="GridCell.Tab.0.left" timestamp="1620760627251">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="67" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1620760627251" />
+    <state width="1293" height="67" key="GridCell.Tab.0.right" timestamp="1620760627251">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="67" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1620760627251" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1620758587298">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1620758587298" />
   </component>
 </project>
