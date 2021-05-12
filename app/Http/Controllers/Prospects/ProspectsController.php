@@ -16,7 +16,18 @@ class ProspectsController extends Controller
     // This will be the post/create request for the api
     public function store(Request $request)
     {
+        // This validates the request
+        $request->validate([
+            'name' => 'required',
+            'email' => 'required'
+        ]);
         //
         return Prospect::create($request->all());
+    }
+
+    // This will allow you to search for id's via the API
+    public function show($id)
+    {
+        return Prospect::find($id);
     }
 }
